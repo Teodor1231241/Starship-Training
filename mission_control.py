@@ -56,7 +56,7 @@ else:
     print(" -> No student modules installed yet! Relying on rusty backup systems...")
 
 print("\n" + "-" * 68)
-if total_ship_power >= 250:
+if total_ship_power >= 450:
     print(" MISSION VICTORY! Your 3 custom modules overpowered the Alien Dreadnought!")
     print(" The galaxy is safe thanks to the engineering crew of Classroom 3416!")
 elif total_ship_power >= 130:
